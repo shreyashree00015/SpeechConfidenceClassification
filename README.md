@@ -8,7 +8,7 @@ This repository contains a speech confidence classification pipeline. The pipeli
 - [Run](#to-run)
 
 ## Project Structure
-'''
+```
 project
     |-> BiLSTM
     |   |-> main.py
@@ -22,7 +22,7 @@ project
     |   |   |-> wav
     |   |-> test
     |   |-> output_labels
-'''
+```
 ## Installation
 
 git clone https://github.com/username/speech_recognition_project.git
